@@ -72,7 +72,7 @@ alias ls='ls -GFh'
 
 Though CS51 does a bit less hand-holding than CS50, that doesn't mean there aren't resources available to you!
 
-* (Piazza)[https://piazza.com/class/if9069e9cmd4df?cid=2] should be your go-to place for any questions you have about problem sets, concepts, or logistics. Not only are all the instructors ready to answer questions on Piazza, but other students can see and answer your questions as well. Chances are, someone has had the same problem as you already! I also highly encourage you to answer others' questions, if you can, since explaining things to others helps you solidify your own understanding of the material. :)
+* [Piazza](https://piazza.com/class/if9069e9cmd4df?cid=2) should be your go-to place for any questions you have about problem sets, concepts, or logistics. Not only are all the instructors ready to answer questions on Piazza, but other students can see and answer your questions as well. Chances are, someone has had the same problem as you already! I also highly encourage you to answer others' questions, if you can, since explaining things to others helps you solidify your own understanding of the material. :)
 
 * Office Hours (held in the Science Center basement from 8 to 10pm on Mondays and Tuesdays and from 8pm to midnight on Wednesdays and Thursdays) are a great place to work on problem sets with other CS51 students, and get help from TF's when you get stuck!
 
