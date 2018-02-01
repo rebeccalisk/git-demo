@@ -44,14 +44,6 @@ I can now view your changes and integrate them into my repository; if everyone's
 
 # Other Setup
 
-## Text Editors
-
-If you've been using the CS50 IDE, TextEdit, or NotePad to edit your code up until now, now's the time to get started. If you don't have a preferred text editor yet, [Sublime](https://www.sublimetext.com/) is the way to go. Check out Rebecca's great [piazza note](https://piazza.com/class/if9069e9cmd4df?cid=43) on Sublime if you're interested!
-
-Alternately, if you're up for a challenge, you might want to consider the text editor Vim. It's my preferred editor because it not only lets you work from within the terminal, but also provides a ton of shortcuts that mean you spend less time navigating and more time coding.
-
-To open a file with Vim, all you have to do is type `vim [filename]` in the terminal. No pesky clicking through folders, alternating through tabs of files, or starting up programs. Vim has a steep learning curve... but once you're used to it, you'll never want to go back. To better integrate OCaml with Vim, check out this awesome [note](https://piazza.com/class/if9069e9cmd4df?cid=82) by Davey on Piazza!
-
 ## The Terminal
 
 Since you'll be using the terminal a lot over the course of the semester, it doesn't hurt to make it pretty! To add some colors, you can start by opening ~/.bash_profile () and adding in the following lines:
@@ -72,8 +64,8 @@ alias ls='ls -GFh'
 
 Though CS51 does a bit less hand-holding than CS50, that doesn't mean there aren't resources available to you!
 
-* [Piazza](https://piazza.com/class/if9069e9cmd4df?cid=2) should be your go-to place for any questions you have about problem sets, concepts, or logistics. Not only are all the instructors ready to answer questions on Piazza, but other students can see and answer your questions as well. Chances are, someone has had the same problem as you already! I also highly encourage you to answer others' questions, if you can, since explaining things to others helps you solidify your own understanding of the material. :)
+* [Piazza](https://piazza.com/class/i55hhqy3vmr1xk) should be your go-to place for any questions you have about problem sets, concepts, or logistics. Not only are all the instructors ready to answer questions on Piazza, but other students can see and answer your questions as well. Chances are, someone has had the same problem as you already! I also highly encourage you to answer others' questions, if you can, since explaining things to others helps you solidify your own understanding of the material. :)
 
-* Office Hours (held in the Science Center basement from 8 to 10pm on Mondays and Tuesdays and from 8pm to midnight on Wednesdays and Thursdays) are a great place to work on problem sets with other CS51 students, and get help from TF's when you get stuck!
+* Office Hours (held in the Northwest Labs basement from 7 to 11pm on Mondays and Tuesdays) are a great place to work on problem sets with other CS51 students, and get help from TFs when you get stuck!
 
-* Teaching Fellows (especially me) are available to help as well! We will be at Office Hours and Labs, but you should also feel free to email me, or come to speak with me before code review, to talk about your problem sets or conceptual problems.
+* Teaching Fellows are available to help as well! We will be at Office Hours and Labs, but you should also feel free to email me, or come to speak with me before code review, to talk about your problem sets or conceptual problems.
