@@ -12,7 +12,7 @@ Git is a version control system that allows you (and your coworkers) to keep tra
 
 First, if you haven't already, download and install ``git``. you can find downloads at git-scm.com/downloads.  If you install GitHub's native client at https://desktop.github.com, `git` will automatically be installed.
 
-Next, if you don't have a GitHub account yet, go to https://github.com and sign up for an account.  Once you're done, visit https://github.com/ariannacodes/cs51, and hit "Fork" on the top right.  This creates a copy of this repository for your own use; you'll be able to pull updates from this repository while making changes to your own copy.  Once you're done, visit your own copy.
+Next, if you don't have a GitHub account yet, go to https://github.com and sign up for an account.  Once you're done, visit https://github.com/ariannacodes/git-demo, and hit "Fork" on the top right.  This creates a copy of this repository for your own use; you'll be able to pull updates from this repository while making changes to your own copy.  Once you're done, visit your own copy.
 
 ## SSH Keys
 
